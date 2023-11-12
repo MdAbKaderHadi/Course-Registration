@@ -1,0 +1,66 @@
+[
+    {
+      "course_name": "Introduction to C Programming",
+      "course_details": "Learn the fundamentals of C programming language.",
+      "price": 15000,
+      "hours": 1,
+      "image_link": "https://i.ibb.co/hFkSVYD/Rectangle-2-2.png"
+    },
+    {
+      "course_name": "Introduction to Algorithms",
+      "course_details": "Explore the principles and applications of algorithms.",
+      "price": 25000,
+      "hours": 2,
+      "image_link": "https://i.ibb.co/2Z1d5tv/Rectangle-2-3.png"
+    },
+    {
+      "course_name": "Introduction to C++ for DSA",
+      "course_details": "Get started with C++ for Data Structures and Algorithms.",
+      "price": 10000,
+      "hours": 10,
+      "image_link": "https://i.ibb.co/bb89Z9p/Rectangle-2-4.png"
+    },
+    {
+      "course_name": "Basic Data Structures",
+      "course_details": "Build a strong foundation in essential data structures.",
+      "price": 35000,
+      "hours": 5,
+      "image_link": "https://i.ibb.co/djh2JFw/Rectangle-3.png"
+    },
+    {
+      "course_name": "Introduction to OOP Python",
+      "course_details": "Learn Object-Oriented Programming concepts with Python.",
+      "price": 19000,
+      "hours": 5,
+      "image_link": "https://i.ibb.co/WtZQgps/Rectangle-2.png"
+    },
+    {
+      "course_name": "Software Engineering",
+      "course_details": "Understand the principles of software engineering.",
+      "price": 23000,
+      "hours": 2,
+      "image_link": "https://i.ibb.co/7WLz62Y/Rectangle-2-5.png"
+    },
+    {
+      "course_name": "AWS, Cloud Computing",
+      "course_details": "Explore cloud computing concepts and AWS services.",
+      "price": 35000,
+      "hours": 5,
+      "image_link": "https://i.ibb.co/N22WNqm/Rectangle-3-1.png"
+    },
+    {
+      "course_name": "Database (MySQL)",
+      "course_details": "Gain proficiency in working with MySQL databases.",
+      "price": 19000,
+      "hours": 5,
+      "image_link": "https://i.ibb.co/N6kQq1B/Rectangle-2-1.png"
+    },
+    {
+      "course_name": "Problem-Solving Part",
+      "course_details": "Enhance your problem-solving skills with practical exercises.",
+      "price": 23000,
+      "hours": 2,
+      "image_link": "https://i.ibb.co/HG9G83C/Rectangle-2-6.png"
+    }
+  ]
+  
